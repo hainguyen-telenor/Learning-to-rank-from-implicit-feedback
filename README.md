@@ -1,6 +1,7 @@
-# Fashion-Recommender-Systems
+# Learning-to-rank from implicit feedback
 
 ## Introduction
+This is a hub of our research on learning-to-rank from implicit feedback for recommender systems. As a case study, we chose to do experiments on the real-world service named Sobazaar. The more details on Sobazaar is given as follows.
 
 ## Dataset description
 
