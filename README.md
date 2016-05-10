@@ -4,6 +4,7 @@
 This is a hub of our research on learning-to-rank from implicit feedback for recommender systems. As a case study, we chose to do experiments on the real-world service named Sobazaar. The more details on Sobazaar is given as follows.
 
 ## Dataset description
+![myimage-alt-tag](https://github.com/hainguyen-telenor/Learning-to-rank-from-implicit-feedback/blob/master/image/Sobazaar.png)
 
 ## Dataset usage license
 The dataset can be used only for research purposes and the usage must be followed the Open Database License (ODbL) v1.0: http://opendatacommons.org/licenses/odbl/1.0/
