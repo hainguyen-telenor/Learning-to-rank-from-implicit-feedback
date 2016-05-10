@@ -19,7 +19,7 @@ The dataset can be used only for research purposes and the usage must be followe
 ## Downloads
 The dataset can be downloaded in the folder named [/data](https://github.com/hainguyen-telenor/Fashion-Recommender-Systems/tree/master/Data). There is a README.md file, which provides the meanings of different columns in the dataset.
 
-## Reference
+## Research papers
 [1] Hai Thanh Nguyen, Thomas Almenningen, Martin Havig, Herman Schistad, Anders Kofod-Petersen, Helge Langseth, and Heri Ramampiaro. Learning to rank for personalised fashion recommender systems via implicit feed- back. In Mining Intelligence and Knowledge Exploration - Second International Conference, MIKE 2014, Cork, Ireland, December 10-12, 2014. Proceedings, pages 51–61, 2014.[Link](http://dx.doi.org/10.1007/978-3-319-13817-6_6)
 
 [2] Huihuai Qiu, Jie Zhang, Guibing Guo, Hai Thanh Nguyen, Zhu Sun, and Yun Liu. “TBPR: Trinity Preference based Bayesian Personalized Ranking for Multivariate Implicit Feedback”. [24th Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2016/) (Accepted for publication)
